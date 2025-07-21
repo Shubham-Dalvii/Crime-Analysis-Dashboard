@@ -1,8 +1,6 @@
 # Crime-Analysis-Dashboard
 This Power BI dashboard presents a comprehensive analysis of crime trends across Indian cities, offering insights into crime rates, resolution efficiency, victim demographics, weapon usage, and more. It enables data-driven decisions for policy-makers, researchers, and law enforcement agencies.
 
-See how Dashboard looks like - ![Dashboard Preview](https://github.com/Shubham-Dalvii/Crime-Analysis-Dashboard/blob/main/Crime_Analysis_Dashboard.png)
-
 🧰 Technologies Used
 
 - Power BI - 
@@ -31,3 +29,6 @@ It contains detailed records of crimes reported across various cities in India.
 - City-wise Crime Rate - Top 5 and bottom 5 cities by crime rate visualized.
 - Police Deployment Analysis - Number of police deployed by city and resolution efficiency.
 - Solved vs Unsolved Cases - Insight into case resolution performance.
+
+See how Dashboard looks like - 
+![Dashboard Preview](https://github.com/Shubham-Dalvii/Crime-Analysis-Dashboard/blob/main/Crime_Analysis_Dashboard.png)
