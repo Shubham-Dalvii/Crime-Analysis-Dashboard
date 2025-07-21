@@ -24,16 +24,10 @@ It contains detailed records of crimes reported across various cities in India.
 
 🌟 Features & Highlights 
 
-Total Crimes Overview - Shows total crimes, crime rate per 100K, daily average, and resolution rate.
-
-Time Analysis - Heatmap of crimes by hour and day; monthly trends for crime occurrences.
-
-Victim Analysis - Gender-wise victim distribution and age group-wise crime reporting.
-
-Weapon Analysis - Types of weapons commonly used in crimes.
-
-City-wise Crime Rate - Top 5 and bottom 5 cities by crime rate visualized.
-
-Police Deployment Analysis - Number of police deployed by city and resolution efficiency.
-
-Solved vs Unsolved Cases - Insight into case resolution performance.
+- Total Crimes Overview - Shows total crimes, crime rate per 100K, daily average, and resolution rate.
+- Time Analysis - Heatmap of crimes by hour and day; monthly trends for crime occurrences.
+- Victim Analysis - Gender-wise victim distribution and age group-wise crime reporting.
+- Weapon Analysis - Types of weapons commonly used in crimes.
+- City-wise Crime Rate - Top 5 and bottom 5 cities by crime rate visualized.
+- Police Deployment Analysis - Number of police deployed by city and resolution efficiency.
+- Solved vs Unsolved Cases - Insight into case resolution performance.
