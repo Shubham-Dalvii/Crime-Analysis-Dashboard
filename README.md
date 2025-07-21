@@ -14,3 +14,8 @@ A formula language used to create custom calculations, measures, and KPIs within
 
 Data Modeling - 
 Involves creating relationships between tables, defining hierarchies, and designing an efficient schema to support accurate and scalable analysis.
+
+📊 Data Source 
+
+The dataset used in this project was sourced from Kaggle. Link - https://www.kaggle.com/datasets/sudhanvahg/indian-crimes-dataset
+It contains detailed records of crimes reported across various cities in India.
